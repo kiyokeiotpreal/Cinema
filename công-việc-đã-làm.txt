@@ -1,0 +1,17 @@
+Họ và tên: Nguyễn Thành Nam
+Email: nguyenthanhnam030802@gmail.com
+SĐT: 0983316646
+Khóa học: FullStack java
+
+Những việc đã làm được:
+ + ) Backend:
+Phân quyền (admin, user ) , đăng nhập, đăng ký xác nhận email bằng OTP, Quên mật khẩu xác nhận email bằng OTP, đổi mật khẩu, Thay đổi thông tin cá nhân, Xác thực bằng JWT và RefreshToken
+Chức năng Admin: 
+Thêm, Cập nhật, xóa Movie, schedule, bill, room, cinema, user, seat, banner
+Thống kê doanh thu theo rạp
+Thống kê đồ ăn bán chạy
+
+Chức năng user:
+Chọn rạp --> chọn phim --> chọn phòng, chọn lịch chiếu --> chọn đồ ăn--> Thanh toán VNPay -- > Nhận mã xác nhận về email sau khi thanh toán thành công.
++ ) Frontend:
+Đăng nhập, đăng ký tài khoản
